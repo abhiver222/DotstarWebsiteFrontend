@@ -1,0 +1,251 @@
+/*!
+ * Start Bootstrap - Round About HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v1.
+ * For details, see http://www.apache.org/licenses/LICENSE-1.
+ */
+ @import url(http://fonts.googleapis.com/css?family=Quicksand:400,300,700);
+ @import url(http://fonts.googleapis.com/css?family=Jockey+One);
+ @import url(http://fonts.googleapis.com/css?family=Six+Caps);
+html body {
+  padding:0px;
+  margin:0px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+
+#bg{
+  background-image: url("../img/header-bg.jpg");
+  background-size: cover;
+  background-color:white;
+  width:100vw;
+  height:50vh;
+  padding:0px;
+  font-family: 'Six Caps', sans-serif;
+  margin:0px;
+  color:white;
+  display: inline-block;
+  z-index:-213213;
+}
+
+#bg h1{
+  font-size:7.0em;
+}
+
+#bg h2{
+  font-size:3.0em;
+  transform:translate(-7vw,0vh);
+  color:#F39C12;
+}
+
+#bg h3{
+  font-size:3.0em;
+  transform:translate(2.5vw,0vh);
+  color:#F39C12;
+}
+.img-center {
+  margin: 0 auto;
+}
+
+footer {
+    margin: 50px 0;
+}
+.person{
+  padding:1px;
+}
+.overlord{
+  color:white;
+  background-color:#3498DB;
+  transform:translate(0%,2px);
+  font-family: 'Quicksand', sans-serif;
+  height:350px;
+}
+.page-header {
+  font-size: 50px;
+}
+.overlordTitle{
+  color:white;
+  background-color:#246996;
+  font-size:2em;
+  position:relative;
+  padding:20px;
+  text-align:left;
+  transform:translate(-7.9%,0);
+  width:200px;
+  z-index:35;
+
+}
+.A{
+  background-color:#7BC99C;
+  color:white;
+  font-family: 'Quicksand', sans-serif;
+  height:350px;
+}
+.Atitle{
+  background-color:rgba(0,0,0,0.3);
+  font-size:2em;
+  position:relative;
+  padding:20px;
+  text-align:middle;
+  width:100%;
+  z-index:35;
+
+}
+
+
+.radhir {
+  font-size: 20px;
+}
+.Atitle small{
+  font-weight:light;
+}
+.B{
+  background-color:#34495E;
+  color:white;
+  font-family: 'Quicksand', sans-serif;
+  height:350px;
+}
+.Btitle{
+  background-color:rgba(0,0,0,0.3);
+  font-size:2em;
+  position:relative;
+  padding:20px;
+  text-align:middle;
+  transform:translate(0%, 0);
+  width:100%;
+  z-index:35;
+
+}
+.Btitle small{
+  font-weight:light;
+}
+.C{
+  background-color:#F39C12;
+  color:white;
+  font-family: 'Quicksand', sans-serif;
+  height:350px;
+}
+.Ctitle{
+  background-color:rgba(0,0,0,0.3);
+  font-size:2em;
+  position:relative;
+  padding:20px;
+  text-align:middle;
+  width:100%;
+  z-index:35;
+
+}
+.Ctitle small{
+  font-weight:light;
+}
+.D{
+  background-color:#EA4F4F;
+  color:white;
+  font-family: 'Quicksand', sans-serif;
+  height:350px;
+}
+.img-circle{
+  transform:translate(0px, 10px);
+}
+.Dtitle{
+  background-color:rgba(0,0,0,0.3);
+  font-size:2em;
+  position:relative;
+  padding:20px;
+  text-align:middle;
+  width:100%;
+  z-index:35;
+
+
+}
+.Dtitle small{
+  font-weight:light;
+}
+.E{
+  background-color:#2F3636;
+  color:white;
+  font-family: 'Quicksand', sans-serif;
+  height:350px;
+}
+.Etitle{
+  background-color:rgba(0,0,0,0.3);
+  font-size:2em;
+  position:relative;
+  padding:20px;
+  text-align:right;
+  width:100%;
+  z-index:35;
+
+}
+.Etitle small{
+  font-weight:light;
+}
+.roleE{
+  postion:relative:
+  z-index:12323;
+  width:53px;
+  font-size:2em;
+  margin:0px;
+  transform:translate( -20px, -20px);
+  float:left;
+  border-right-color: #ff0000;
+  text-align:center;
+  background-color:#246996;
+  height:60px;
+  line-height: 60px;
+}
+.roleMT{
+  postion:relative:
+  z-index:12323;
+  width:53px;
+  font-size:2em;
+  margin:0px;
+  transform:translate( -20px, -20px);
+  float:left;
+  border-right-color: #ff0000;
+  text-align:center;
+  background-color:#F1C40F;
+  height:60px;
+  line-height: 60px;
+}
+.roleC{
+  postion:relative:
+  z-index:12323;
+  width:53px;
+  font-size:2em;
+  margin:0px;
+  transform:translate( -20px, -20px);
+  float:left;
+  border-right-color: #ff0000;
+  text-align:center;
+  background-color:#5E6C6C;
+  height:60px;
+  line-height: 60px;
+}
+.roleT{
+  postion:relative:
+  z-index:12323;
+  width:53px;
+  font-size:2em;
+  margin:0px;
+  transform:translate( -20px, -20px);
+  float:left;
+  border-right-color: #ff0000;
+  text-align:center;
+  background-color:#D64838;
+  height:60px;
+  line-height: 60px;
+}
+.roleM{
+  postion:relative:
+  z-index:12323;
+  width:53px;
+  font-size:2em;
+  margin:0px;
+  transform:translate( -20px, -20px);
+  float:left;
+  border-right-color: #ff0000;
+  text-align:center;
+  background-color:#1ABC9C;
+  height:60px;
+  line-height: 60px;
+}
